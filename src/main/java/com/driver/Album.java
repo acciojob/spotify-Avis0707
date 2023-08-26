@@ -32,3 +32,4 @@ public class Album {
         this.releaseDate = releaseDate;
     }
 }
+
